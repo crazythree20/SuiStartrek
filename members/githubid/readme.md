@@ -2,30 +2,17 @@
 
 ### 个人介绍
 
-* Github ID: [github](https://github.com/github)
+* Github ID: cazythree20
 
-* Telegram ID: xxx
+* Telegram ID: c_razyt
 
-* Discord ID: xx
+* Discord ID: crazythree21
 
 (首次如果没有，学习完毕钱包在填写)
-* Sui 账号地址: 0x7b8e0864967427679b4e129f79dc332a885c6087ec9e187b53451a9006ee15f2
+* Sui 账号地址: 0x571b0277621ad4d4c991321b265c69fa5930039ef3b4b042339d5a861db9a44f
 
-长期从事深度学习和计算机视觉算法，训练平台开发，2021 年进入区块链领域，学习区块链基础，智能合约开发。  
-常用语言 Python, C++, JS。对区块链系统研发以及智能合约编程方向感兴趣。
 
-### 学习日志
-
-- [学习日志](journal.md)
-- [学习总结](summary.md)
-
-### 学习成果
-
-Roadmap  1  
-- 项目源码:填写自己的源码地址
-- 发布的ERC20
-package1: xx
-package2: xx
+web3业余爱好者，对这一块比较感兴趣，想提高自己对这方面的认知，学习一个技术，职业是运维，使用python比较多
 
 
 2.
